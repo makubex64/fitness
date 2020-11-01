@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/fitness.git/static/css/main.f3dfca2e.chunk.css",
+    "main.js": "/fitness.git/static/js/main.e727cdae.chunk.js",
+    "main.js.map": "/fitness.git/static/js/main.e727cdae.chunk.js.map",
+    "runtime-main.js": "/fitness.git/static/js/runtime-main.c8403ff4.js",
+    "runtime-main.js.map": "/fitness.git/static/js/runtime-main.c8403ff4.js.map",
+    "static/css/2.3cf5d70f.chunk.css": "/fitness.git/static/css/2.3cf5d70f.chunk.css",
+    "static/js/2.ebf022d8.chunk.js": "/fitness.git/static/js/2.ebf022d8.chunk.js",
+    "static/js/2.ebf022d8.chunk.js.map": "/fitness.git/static/js/2.ebf022d8.chunk.js.map",
+    "index.html": "/fitness.git/index.html",
+    "precache-manifest.ab3b6b1e335e8a34d4b3cfbefc5a7e55.js": "/fitness.git/precache-manifest.ab3b6b1e335e8a34d4b3cfbefc5a7e55.js",
+    "service-worker.js": "/fitness.git/service-worker.js",
+    "static/css/2.3cf5d70f.chunk.css.map": "/fitness.git/static/css/2.3cf5d70f.chunk.css.map",
+    "static/css/main.f3dfca2e.chunk.css.map": "/fitness.git/static/css/main.f3dfca2e.chunk.css.map",
+    "static/js/2.ebf022d8.chunk.js.LICENSE.txt": "/fitness.git/static/js/2.ebf022d8.chunk.js.LICENSE.txt",
+    "static/media/404.png": "/fitness.git/static/media/404.f16a1ad5.png",
+    "static/media/500.png": "/fitness.git/static/media/500.854842fa.png",
+    "static/media/circles.png": "/fitness.git/static/media/circles.eb728687.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8403ff4.js",
+    "static/css/2.3cf5d70f.chunk.css",
+    "static/js/2.ebf022d8.chunk.js",
+    "static/css/main.f3dfca2e.chunk.css",
+    "static/js/main.e727cdae.chunk.js"
+  ]
+}
