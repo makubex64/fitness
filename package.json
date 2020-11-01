@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://makubex64.github.io/fitness.git",
   "dependencies": {
     "bootstrap": "^4.5.3",
     "cra-template": "1.0.3",
@@ -13,7 +14,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-+   "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -33,6 +34,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://github.com/makubex64/fitness.git"
+  }
 }
